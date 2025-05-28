@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sassybellz
-- 👀 I’m interested in: dunno
+- 👀 I’m interested in: web development 
 - 🌱 I’m currently learning: python, html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @iron._.starx
